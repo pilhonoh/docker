@@ -2,6 +2,7 @@ Cheers, to Dockercon 2019!
 ==========================
 
 Cheers, everybody!
+Master 좋아요
 
 It's time for Dockercon SF 2019, and Moby wanted to celebrate it in docker style!
 
