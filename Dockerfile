@@ -1,7 +1,7 @@
 FROM ubuntu:18.04
 MAINTAINER Dongbin Na <eric93@nate.com>
  
-#avoiding user interaction with tzdata
+#avoiding user interaction with tzdata Test용
 ENV DEBIAN_FRONTEND=noninteractive
 
 RUN apt-get update

@@ -1,7 +1,7 @@
 A Docker Sixth Birthday Surprise
 ================================
 
-Happy Birthday, Docker!
+Happy Birthday, DockerTest!
 
 March 2019 marks Docker's sixth year, and we thought we'd celebrate it docker-style with a birthday surprise!
 To try it out, run:
