@@ -1,8 +1,8 @@
 #installation
 <pre>
 cd /home
-git clone https://github.com/eric9355/docker-practice
-cd docker-practice
+git clone https://github.com/pilhonoh
+cd docker
 </pre>
 
 ### run
